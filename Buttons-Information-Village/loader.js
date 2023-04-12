@@ -1,6 +1,6 @@
 $.ajax({
 	type: "GET",
-	url: 'https://rawcdn.githack.com/diogorocha18/ScriptsPublicos/2baca9b2b2a3b265abad287ed90a61ccc0950f5c/Buttons-Information-Village/general.js',
+	url: 'https://rawcdn.githack.com/diogorocha18/ScriptsPublicos/02d4f93777c40362a1d9833c42fca389e33e93e5/Buttons-Information-Village/general.js',
 	dataType: "script",
 	cache: false
 });

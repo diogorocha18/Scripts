@@ -4,3 +4,4 @@ $.ajax({
 	dataType: "script",
 	cache: false
 });
+console.log("test")
